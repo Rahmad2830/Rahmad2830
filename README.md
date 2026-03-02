@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+<h1>Hi there! I'm Rahmat Nur Hidayat</h1>
+</div>
 
-<!--
-**Rahmad2830/Rahmad2830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<strong>Frontend-focused Web Developer</strong> • Freelancer • Making web development (especially frontend) easier and more enjoyable
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently focused on building fast, responsive, and easy-to-maintain Hypermedia library
+- Main goal: Making web development (especially frontend) easier to understand and more enjoyable for beginners to intermediates
+- Daily freelancer, available for frontend projects, UI/UX implementation, landing pages, dashboards, etc.
+- Passionate about frontend-based Hypermedia.
+- Want to chat or collaborate?  rahmatnurhidayat0101@gmail.com or DM at [Threads](https://www.threads.com/@rahmatnurh_)
+
+<div align="center">
+ <i>"Make it work, make it fast… then make it simpler."</i>
+</div>
+
+<div align="center">
+ <br/>
+ Thanks for stopping by!
+</div>
