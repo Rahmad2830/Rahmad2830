@@ -3,13 +3,11 @@
 </div>
 
 <p align="center">
-<strong>Frontend-focused Web Developer</strong> • Freelancer • Making web development (especially frontend) easier and more enjoyable
+<strong>Frontend-focused Web Developer</strong> • Freelancer
 </p>
 
 ## About Me
 
-- Currently focused on building fast, responsive, and easy-to-maintain Hypermedia library
-- Main goal: Making web development (especially frontend) easier to understand and more enjoyable for beginners to intermediates
 - Daily freelancer, available for frontend projects, UI/UX implementation, landing pages, dashboards, etc.
 - Passionate about frontend-based Hypermedia.
 - Want to chat or collaborate?  rahmatnurhidayat0101@gmail.com or DM at [Threads](https://www.threads.com/@rahmatnurh_)
